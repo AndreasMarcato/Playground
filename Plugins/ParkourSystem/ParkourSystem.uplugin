@@ -1,17 +1,17 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "ParkourSystem",
-	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "",
+	"Description": "A locomotion system supporting free roam parkour actions and climbing actions. Works only with a mesh using the SK_Mannequin.",
+	"Category": "Movement",
+	"CreatedBy": "Andreas Marcato",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
 	"Installed": false
 }
